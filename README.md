@@ -1,9 +1,7 @@
 # EX NO :1  Cloud-account-set-up-and-services
-~~~
 Name :PRAVEENA D
 
 Reg no: 212224040248
-~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
 
